@@ -8,4 +8,3 @@ C:\Users\Kirill\source\repos\mod-lab10-ufo\Ufo\bin\Debug\Ufo.exe
 C:\Users\Kirill\source\repos\mod-lab10-ufo\Ufo\bin\Debug\Ufo.pdb
 C:\Users\Kirill\source\repos\mod-lab10-ufo\Ufo\obj\Debug\Ufo.exe
 C:\Users\Kirill\source\repos\mod-lab10-ufo\Ufo\obj\Debug\Ufo.pdb
-C:\Users\Kirill\source\repos\mod-lab10-ufo\Ufo\obj\Debug\Ufo.SetPointsForm.resources
